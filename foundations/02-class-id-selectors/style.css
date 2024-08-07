@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 71, 76);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.cool-class{
+    font-size: 24;
+}
+
+div.second{
+    color:blue;
+    font-size: 36;
+}
+
+div.fourth{
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: 1000;
+}
